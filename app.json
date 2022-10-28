@@ -32,17 +32,17 @@
       "required": true,
       "value": "ANYTHING"
     },
-    "API_ID": {
+    "API_ID": {19435384
       "description": "Get this value from my.telegram.org.",
       "required": true,
       "value": ""
     },
-    "API_HASH": {
+    "API_HASH": {7fbb46e74c27e4ae1f6be41d52fe7e2e
       "description": "Get this value from my.telegram.org.",
       "required": true,
       "value": ""
     },
-    "BOT_TOKEN": {
+    "BOT_TOKEN": {5715877068:AAEMZHPHT0c_W1ECnmFjZneJnDhJVSAbFRg
       "description": "Obtain a Telegram bot token by contacting @BotFather",
       "required": true,
       "value": ""
@@ -50,7 +50,7 @@
     "MUST_JOIN": {
       "description": "Add username/id of a channel/group",
       "required": false,
-      "value": "SourseZezoMusic"
+      "value": "5648157552"
     }
   }
 }
